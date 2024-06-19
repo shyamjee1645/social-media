@@ -25,7 +25,7 @@ function CreatePost() {
 		formData.append("file", newPost.file);
 
 		axios
-			.post("https://socialmedia-te4g--3000--9e2d28a3.local-corp.webcontainer.io/api/posts", formData)
+			.post("https://social-media-zh54.onrender.com/api/posts", formData)
 			.then((response) => {
 				setNewPost({ title: "", content: "", file: null });
 			})
