@@ -19,7 +19,9 @@ This project demonstrates the creation of a social media platform utilizing the 
 
 Preview Image: Here is a preview of the final output.
 
-![Final Project Output](https://github.com/shyamjee1645/social-media-platform/assets/preview.png)
+![Final Project Output](https://github.com/shyamjee1645/social-media/assets/93826494/6c58cd38-133e-405a-ba93-6b1018e80a6f)
+![image](https://github.com/shyamjee1645/social-media/assets/93826494/1f4414cd-de5e-455d-9766-b074b5bce4f4)
+
 
 ## Prerequisites
 
